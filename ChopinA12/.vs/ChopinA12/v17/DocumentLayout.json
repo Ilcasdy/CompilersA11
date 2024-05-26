@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Compilers\\Chopin\\ChopinA12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Compilers\\Chopin\\ChopinA12\\launch.vs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:launch.vs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Compilers\\Chopin\\ChopinA12\\Reader.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Reader.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Compilers\\Chopin\\ChopinA12\\Compilers.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Compilers.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Compilers\\Chopin\\ChopinA12\\MainReader.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MainReader.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Compilers\\Chopin\\ChopinA12\\Reader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Reader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Compilers\\Chopin\\ChopinA12\\CMakePresets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CMakePresets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Compilers\\Chopin\\ChopinA12\\Compilers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Compilers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Compilers\\Chopin\\ChopinA12\\README.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Compilers\\Chopin\\ChopinA12\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Downloads\\a12iles\\a12iles\\code\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Compilers.h",
+              "DocumentMoniker": "C:\\Compilers\\Chopin\\ChopinA12\\Compilers.h",
+              "RelativeDocumentMoniker": "Compilers.h",
+              "ToolTip": "C:\\Compilers\\Chopin\\ChopinA12\\Compilers.h",
+              "RelativeToolTip": "Compilers.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-22T14:22:19.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launch.vs.json",
+              "DocumentMoniker": "C:\\Compilers\\Chopin\\ChopinA12\\launch.vs.json",
+              "RelativeDocumentMoniker": "launch.vs.json",
+              "ToolTip": "C:\\Compilers\\Chopin\\ChopinA12\\launch.vs.json",
+              "RelativeToolTip": "launch.vs.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-24T22:22:26.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainReader.c",
+              "DocumentMoniker": "C:\\Compilers\\Chopin\\ChopinA12\\MainReader.c",
+              "RelativeDocumentMoniker": "MainReader.c",
+              "ToolTip": "C:\\Compilers\\Chopin\\ChopinA12\\MainReader.c",
+              "RelativeToolTip": "MainReader.c",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAYwDgBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-22T14:21:37.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reader.c",
+              "DocumentMoniker": "C:\\Compilers\\Chopin\\ChopinA12\\Reader.c",
+              "RelativeDocumentMoniker": "Reader.c",
+              "ToolTip": "C:\\Compilers\\Chopin\\ChopinA12\\Reader.c",
+              "RelativeToolTip": "Reader.c",
+              "ViewState": "AQIAAKYAAAAAAAAAAAAtwMMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-22T14:20:59.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reader.h",
+              "DocumentMoniker": "C:\\Compilers\\Chopin\\ChopinA12\\Reader.h",
+              "RelativeDocumentMoniker": "Reader.h",
+              "ToolTip": "C:\\Compilers\\Chopin\\ChopinA12\\Reader.h",
+              "RelativeToolTip": "Reader.h",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAvwFcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-22T14:21:28.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Compilers.c",
+              "DocumentMoniker": "C:\\Compilers\\Chopin\\ChopinA12\\Compilers.c",
+              "RelativeDocumentMoniker": "Compilers.c",
+              "ToolTip": "C:\\Compilers\\Chopin\\ChopinA12\\Compilers.c",
+              "RelativeToolTip": "Compilers.c",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAAAFUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-22T14:22:04.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\Compilers\\Chopin\\ChopinA12\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "CMakeLists.txt",
+              "ToolTip": "C:\\Compilers\\Chopin\\ChopinA12\\CMakeLists.txt",
+              "RelativeToolTip": "CMakeLists.txt",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwCQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-24T21:53:07.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "README.txt",
+              "DocumentMoniker": "C:\\Compilers\\Chopin\\ChopinA12\\README.txt",
+              "RelativeDocumentMoniker": "README.txt",
+              "ToolTip": "C:\\Compilers\\Chopin\\ChopinA12\\README.txt",
+              "RelativeToolTip": "README.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-24T23:38:27.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CMakePresets.json",
+              "DocumentMoniker": "C:\\Compilers\\Chopin\\ChopinA12\\CMakePresets.json",
+              "RelativeDocumentMoniker": "CMakePresets.json",
+              "ToolTip": "C:\\Compilers\\Chopin\\ChopinA12\\CMakePresets.json",
+              "RelativeToolTip": "CMakePresets.json",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-24T21:57:32.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\a12iles\\a12iles\\code\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\User\\Downloads\\a12iles\\a12iles\\code\\CMakeLists.txt",
+              "ToolTip": "C:\\Users\\User\\Downloads\\a12iles\\a12iles\\code\\CMakeLists.txt",
+              "RelativeToolTip": "..\\..\\..\\Users\\User\\Downloads\\a12iles\\a12iles\\code\\CMakeLists.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-20T20:38:22.601Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

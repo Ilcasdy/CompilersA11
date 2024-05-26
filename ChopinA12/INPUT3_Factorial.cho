@@ -1,0 +1,21 @@
+// Chopin Example 4:
+//  Testing numbers (ex: factorial) 
+
+chopin_intg i;
+chopin_intg n;
+chopin_intg f;
+
+int main() {
+	f = 1;
+	i = 1;
+	console("Write a number");
+	read(n);
+	do {
+		f = f * i;
+		i = i + 1;
+	}
+	while (i < n);
+	console("Factorial:");
+	console(f);
+}
+

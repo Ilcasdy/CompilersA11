@@ -1,0 +1,58 @@
+	=---------------------------------------=
+	|  COMPILERS - ALGONQUIN COLLEGE (S24)  |
+	=---------------------------------------=
+	    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    
+	    @@                             @@    
+	    @@           %&@@@@@@@@@@@     @@    
+	    @@       @%% (@@@@@@@@@  @     @@    
+	    @@      @& @   @ @       @     @@    
+	    @@     @ @ %  / /   @@@@@@     @@    
+	    @@      & @ @  @@              @@    
+	    @@       @/ @*@ @ @   @        @@    
+	    @@           @@@@  @@ @ @      @@    
+	    @@            /@@    @@@ @     @@    
+	    @@     @      / /     @@ @     @@    
+	    @@     @ @@   /@/   @@@ @      @@    
+	    @@     @@@@@@@@@@@@@@@         @@    
+	    @@                             @@    
+	    @@         S O F I A           @@    
+	    @@                             @@    
+	    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    
+	                                         
+	[READER SCRIPT .........................]
+	                                         
+argv[0] = Compiler.exe
+argv[1] = r
+argv[2] = INPUT6_Big.cho
+argv[3] = f
+argv[4] = 100
+argv[5] = 10
+
+[Option 'r': Starting READER .....]
+
+Reading file INPUT6_Big.cho ....Please wait
+The input file INPUT6_Big.cho has not been completely loaded.
+Current size of buffer: 100.
+Last character read from the input file is:   32
+Input file size: 38539
+
+Printing buffer parameters:
+
+The capacity of the buffer is:  100
+The current size of the buffer is:  100
+The operational mode of the buffer is: f
+The increment factor of the buffer is:  10
+The first symbol in the buffer is:  /
+The value of the flags field is: C3
+Reader statistics : 
+B[
+]=4, B[ ]=16, B["]=2, B[/]=6, B[C]=1, B[E]=1, B[T]=1, B[a]=6, B[c]=3, B[d]=2, B[e]=8, B[g]=2, B[h]=3, B[i]=4, B[l]=5, B[m]=2, B[n]=6, B[o]=6, B[p]=3, B[r]=8, B[s]=2, B[t]=4, B[u]=1, B[x]=2, B[y]=2, 
+Number of errors: 0
+
+Printing buffer contents:
+
+// Chopin Example
+//  The program is "lexically" correct
+//  and should not generate any error 
+
+int

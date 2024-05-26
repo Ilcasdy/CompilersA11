@@ -1,0 +1,12 @@
+// Chopin Example 3: Volume of a sphere
+
+chopin_float PI;
+chopin_float r;
+chopin_float Vol;
+
+int main() {
+	PI = 3.14;
+	read(r);
+	Vol = 4 / 3 * PI * ( r * r * r);
+	console(vol);
+}

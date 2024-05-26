@@ -1,0 +1,18 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "Compiler.exe",
+      "name": "Compiler.exe",
+      "args": [
+        "r",
+        "INPUT5_General.cho",
+          "f"
+        
+      ]
+    }
+  ]
+}

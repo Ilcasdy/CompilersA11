@@ -1,0 +1,64 @@
+	=---------------------------------------=
+	|  COMPILERS - ALGONQUIN COLLEGE (S24)  |
+	=---------------------------------------=
+	    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    
+	    @@                             @@    
+	    @@           %&@@@@@@@@@@@     @@    
+	    @@       @%% (@@@@@@@@@  @     @@    
+	    @@      @& @   @ @       @     @@    
+	    @@     @ @ %  / /   @@@@@@     @@    
+	    @@      & @ @  @@              @@    
+	    @@       @/ @*@ @ @   @        @@    
+	    @@           @@@@  @@ @ @      @@    
+	    @@            /@@    @@@ @     @@    
+	    @@     @      / /     @@ @     @@    
+	    @@     @ @@   /@/   @@@ @      @@    
+	    @@     @@@@@@@@@@@@@@@         @@    
+	    @@                             @@    
+	    @@         S O F I A           @@    
+	    @@                             @@    
+	    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    
+	                                         
+	[READER SCRIPT .........................]
+	                                         
+argv[0] = Compiler.exe
+argv[1] = r
+argv[2] = INPUT4_Datatypes.cho
+
+[Option 'r': Starting READER .....]
+
+Reading file INPUT4_Datatypes.cho ....Please wait
+The input file INPUT4_Datatypes.cho has not been completely loaded.
+Current size of buffer: 250.
+Last character read from the input file is: n 110
+Input file size: 278
+
+Printing buffer parameters:
+
+The capacity of the buffer is:  250
+The current size of the buffer is:  250
+The operational mode of the buffer is: f
+The increment factor of the buffer is:  10
+The first symbol in the buffer is:  /
+The value of the flags field is: 33
+Reader statistics : 
+B[	]=5, B[
+]=13, B[ ]=21, B[(]=2, B[)]=1, B[-]=1, B[.]=1, B[/]=4, B[0]=4, B[1]=1, B[2]=1, B[4]=1, B[7]=2, B[8]=1, B[9]=1, B[;]=8, B[=]=4, B[A]=2, B[B]=1, B[C]=4, B[D]=2, B[E]=1, B[F]=2, B[H]=2, B[I]=2, B[N]=2, B[T]=1, B[Y]=2, B[_]=4, B[a]=16, B[c]=8, B[d]=2, B[e]=11, B[f]=2, B[g]=4, B[h]=6, B[i]=14, B[l]=8, B[m]=5, B[n]=16, B[o]=18, B[p]=7, B[r]=12, B[s]=3, B[t]=10, B[u]=6, B[x]=2, B[y]=3, B[{]=1, 
+Number of errors: 0
+
+Printing buffer contents:
+
+// Chopin Example
+// The program is lexically correct
+
+chopin_intg FoundationYear;
+chopin_float Area;
+chopin_float HDI;
+chopin_string CountryName;
+
+int main() {
+	FoundationYear = -7000;
+	Area = 492;
+	HDI = 0.871;
+	CountryName = Bulgaria;
+	console(Cou
