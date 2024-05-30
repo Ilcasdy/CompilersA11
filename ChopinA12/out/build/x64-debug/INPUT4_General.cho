@@ -1,0 +1,27 @@
+// This file contains general operations in Chopin
+
+void main() {
+	pitch transpose(pitch note, int t) {
+		pitch newNote;
+		newNote = note * 1.059463 * t;
+		return newNote
+	}
+
+	duration dottedNote(duration note) {
+		note = note * 1.5;
+		return note;
+	}
+	
+	velocity quiet(velocity volume) {
+		volume = volume / 2;
+		return volume
+	}
+	
+	pitch C# = 540;
+	transpose(C#, 3);
+	console(C#);
+	
+	duration quarterNote = 1;
+	dottedQuarterNote = dottedNote(quarterNote);
+
+}
