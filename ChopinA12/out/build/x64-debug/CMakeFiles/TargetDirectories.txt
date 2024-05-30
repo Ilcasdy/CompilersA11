@@ -1,3 +1,0 @@
-C:/Compilers/Chopin/ChopinA12/out/build/x64-debug/CMakeFiles/Compiler.dir
-C:/Compilers/Chopin/ChopinA12/out/build/x64-debug/CMakeFiles/edit_cache.dir
-C:/Compilers/Chopin/ChopinA12/out/build/x64-debug/CMakeFiles/rebuild_cache.dir

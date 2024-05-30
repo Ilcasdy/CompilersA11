@@ -1,0 +1,5 @@
+// This file contains an invalid character
+
+void main() {
+	console("¿");
+}
