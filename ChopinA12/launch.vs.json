@@ -9,8 +9,7 @@
       "name": "Compiler.exe",
       "args": [
         "r",
-        "INPUT5_General.cho",
-          "f"
+        "INPUT3_Error.cho"
         
       ]
     }

@@ -107,16 +107,19 @@ BufferPointer readerCreate(chopin_intg size, chopin_intg increment, chopin_intg 
 		return NULL;
 	}
 	// assigns increment
-	if (increment != 0)
+	if (increment != 0) {
 		readerPointer->increment = increment;
-	else
+	}
+	else {
 		readerPointer->increment = READER_DEFAULT_INCREMENT;
+		mode = MODE_FIXED;
+	}
 	// assigns mode
 	if (mode == MODE_ADDIT || mode == MODE_FIXED || mode == MODE_MULTI) {
 		readerPointer->mode = mode;
 	}
 	else
-		readerPointer->mode = MODE_FIXED;
+		return NULL;
 	// sets emp flag to 1 and all others to 0
 	readerPointer->flags = READER_DEFAULT_FLAG;
 	readerPointer->flags |= FLAG_EMP;
@@ -156,7 +159,8 @@ BufferPointer readerAddChar(BufferPointer const readerPointer, chopin_char ch) {
 	// rel flag set to 0
 	readerPointer->flags &= ~FLAG_REL;
 	// check if chars are valid
-	if (ch >= NCHAR) {
+	if ((chopin_byte)ch >= NCHAR) {
+		readerPointer->numReaderErrors++;
 		return NULL;
 	}
 	// check if wrte position is beyond size, if it is set the full flag
@@ -199,6 +203,8 @@ BufferPointer readerAddChar(BufferPointer const readerPointer, chopin_char ch) {
 	// record the character to content and add it to the histogram
 	readerPointer->content[readerPointer->position.wrte++] = ch;
 	readerPointer->histogram[ch]++;
+	// set the empty flag to 0
+	readerPointer->flags &= ~FLAG_EMP;
 	return readerPointer;
 }
 

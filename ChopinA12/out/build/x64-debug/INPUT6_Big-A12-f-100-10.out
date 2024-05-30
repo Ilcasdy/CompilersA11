@@ -43,7 +43,7 @@ The current size of the buffer is:  100
 The operational mode of the buffer is: f
 The increment factor of the buffer is:  10
 The first symbol in the buffer is:  /
-The value of the flags field is: C3
+The value of the flags field is: C2
 Reader statistics : 
 B[
 ]=4, B[ ]=16, B["]=2, B[/]=6, B[C]=1, B[E]=1, B[T]=1, B[a]=6, B[c]=3, B[d]=2, B[e]=8, B[g]=2, B[h]=3, B[i]=4, B[l]=5, B[m]=2, B[n]=6, B[o]=6, B[p]=3, B[r]=8, B[s]=2, B[t]=4, B[u]=1, B[x]=2, B[y]=2, 

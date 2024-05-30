@@ -94,6 +94,31 @@ typedef float		chopin_duration;
 typedef float			chopin_beat;
 typedef float		chopin_velocity;
 
+struct Note {
+	chopin_pitch tone;
+	chopin_duration length;
+	chopin_beat time;
+	chopin_velocity volume;
+};
+
+typedef struct Note		Note;
+
+struct Track {
+	chopin_string name;
+	Note *roll;
+};
+
+typedef struct Track	Track;
+
+struct Project {
+	chopin_string name;
+	chopin_string author;
+	chopin_real bpm;
+	Track *song;
+};
+
+typedef struct Project	Project;
+
 /*
 ------------------------------------------------------------
 Programs:

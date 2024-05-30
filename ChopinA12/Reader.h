@@ -91,8 +91,8 @@ enum READER_MODE {
 /* BITS                                (7654.3210) */
 #define READER_DEFAULT_FLAG 0x00 	/* (0000.0000)_2 = (000)_10 */
 
-#define FLAG_END 0b00001000 /* Hex: 0x08 */
-#define FLAG_REL 0b00000100 /* Hex: 0x04 */
+#define FLAG_END 0b00001000 /* Hex: 0x08 Dec: 8 */
+#define FLAG_REL 0b00000100 /* Hex: 0x04 Dec: 4 */
 #define FLAG_FUL 0b00000010 /* Hex: 0x02 Dec: 2 */
 #define FLAG_EMP 0b00000001 /* Hex: 0x01 Dec: 1 */
 
