@@ -46,7 +46,7 @@
 #ifndef COMPILERS_H_
 #define COMPILERS_H_
 
-#define DEBUG 1
+#define DEBUG 0
 
 /*
  * ............................................................................
@@ -58,7 +58,7 @@
  * ............................................................................
  */
 
-/* TO_DO: Adjust your language (cannot be "sofia") */
+/* TO_DO: Adjust your language (cannot be "chopin") */
 
 /* Language name */
 #define STR_LANGNAME	"Chopin"
@@ -140,7 +140,7 @@ Main functions signatures
 ------------------------------------------------------------
 */
 chopin_intg mainReader(chopin_intg argc, chopin_string* argv);
-
+chopin_intg mainScanner(chopin_intg argc, chopin_string* argv);
 /* 
 TO_DO: Include later mainScaner (A22) and mainParser (A32)
 */

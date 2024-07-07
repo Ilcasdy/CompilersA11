@@ -1,5 +1,11 @@
-// This file contains an invalid character
+// This file contains invalid tokens
 
 void main() {
-	console("¿");
+
+	int number = 5^2;
+
+	if ( TRUE & FALSE ) {
+		return;
+	}
+	
 }
