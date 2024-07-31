@@ -307,7 +307,7 @@ Language keywords
 
 /* list of keywords */
 static chopin_string keywordTable[KWT_SIZE] = {
-	"return",	/* KW00 */
+	"void",	/* KW00 */
 	"dec",		/* KW01 */
 	"int",		/* KW02 */
 	"pitch",	/* KW03 */
@@ -324,7 +324,7 @@ static chopin_string keywordTable[KWT_SIZE] = {
 	"Note",		/* KW14 */	
 	"Track",	/* KW15 */
 	"Project",	/* KW16 */
-	"void",		/* KW17 */
+	"return",	/* KW17 */
 	"TRUE",		/* KW18 */
 	"FALSE"		/* KW19 */
 };

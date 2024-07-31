@@ -141,6 +141,7 @@ Main functions signatures
 */
 chopin_intg mainReader(chopin_intg argc, chopin_string* argv);
 chopin_intg mainScanner(chopin_intg argc, chopin_string* argv);
+chopin_intg mainParser(chopin_intg argc, chopin_string* argv);
 /* 
 TO_DO: Include later mainScaner (A22) and mainParser (A32)
 */

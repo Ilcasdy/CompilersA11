@@ -741,7 +741,7 @@ chopin_void printScannerData(ScannerData scData) {
 ***********************************************************
 */
 
-Token runAutomata(chopin_string c) {
+Token runAutomata(chopin_char c) {
 
 	Token currentToken = { 0 }; /* token to return after pattern recognition. Set all structure members to 0 */
 	chopin_intg state = 0;		/* initial state of the FSM */

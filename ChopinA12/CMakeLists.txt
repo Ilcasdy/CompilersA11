@@ -34,6 +34,7 @@ add_executable (Compiler
 		"Compilers.c"
 	"Reader.h"		"Reader.c"		"MainReader.c"  
 	"Scanner.h" "Scanner.c" "MainScanner.c"
+	"Parser.h" "Parser.c" "MainParser.c"
 	# TO_DO: Add A22 (Scanner) and A32 (Parser)
 )
 

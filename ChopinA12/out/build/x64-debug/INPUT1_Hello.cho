@@ -1,6 +1,0 @@
-// This file contains a simple hello message in Chopin
-
-void main() {
-	console("Hello World!");
-	
-}

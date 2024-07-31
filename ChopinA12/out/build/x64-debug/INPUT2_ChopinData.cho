@@ -1,8 +1,0 @@
-// This file contains unique data types to Chopin
-
-void main() {
-	pitch A = 440;
-	velocity forte = 80.5;
-	duration halfNote = 2;
-	return 0;
-}
